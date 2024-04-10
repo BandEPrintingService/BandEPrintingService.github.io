@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: 'url=https://github.com/BandEPrintingService/BandEPrintingService.github.io/blob/main/image/1bf5db7d0e291138efdae07fcfeef46c.jpg';
+    background-image: url'https://github.com/BandEPrintingService/BandEPrintingService.github.io/blob/main/image/1bf5db7d0e291138efdae07fcfeef46c.jpg';
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
