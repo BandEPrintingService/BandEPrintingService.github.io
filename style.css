@@ -65,6 +65,8 @@ main {
 
 .services-list li {
     margin-bottom: 10px;
+    font-family: "Helvetica", sans-serif; /* Change the font to Helvetica */
+    font-weight: bold;
 }
 
 footer {
